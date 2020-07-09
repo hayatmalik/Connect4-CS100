@@ -1,0 +1,4 @@
+Connect 4 Project on Terminal - C++
+Made for CS100 - Computational Problem Solving
+
+ 
