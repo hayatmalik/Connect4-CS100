@@ -1,9 +1,3 @@
-In Codeblocks:
-
-For sound:
->Go to Settings
->Go to Compiler
->Go to Linker settings 
->In other linker options add -lwinmm
->Press ok
-
+Connect 4 Game Project on Terminal 
+C++
+Made for CS100 - Computational Problem Solving
